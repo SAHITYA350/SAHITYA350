@@ -28,12 +28,6 @@
 
 ---
 
-## ⚡ DevPulse.AI — My Live Portfolio Analyzer
-
-This workspace includes **DevPulse.AI** — a premium, client-side, real-time GitHub Profile Analyzer, Visualizer, and AI Career Auditor built with pure CSS & vanilla JS. It queries official REST APIs directly to perform interactive audits and compile statistical reports.
-
-> [!TIP]
-> 🔍 **Want to audit my profile in real-time?** Explore my live [DevPulse.AI Profile Dashboard](https://sahitya350.github.io/Githubreadme/) (or deploy it in one click!) to see live repository metrics, language allocations, and algorithmic career scores!
 
 <details>
 <summary><b>🛠️ Live GitHub REST API Query Example</b></summary>
@@ -156,12 +150,6 @@ I am a B.Tech CSE student at **NIT Bhubaneswar** focused on **GenAI application 
 
 <br/>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sahitya350&theme=onedark&no-frame=true&margin-w=15&row=1&column=7" alt="GitHub Trophies" />
-  </a> 
-</p>
-
 ---
 
 ## 🏆 LeetCode Stats
@@ -192,7 +180,12 @@ I am a B.Tech CSE student at **NIT Bhubaneswar** focused on **GenAI application 
   <img src="https://img.shields.io/badge/Follow%20@SahityaGbcx-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black&labelColor=000000" alt="Follow @sahityagbcx on Twitter" />
 </a>
 
-<br/><br/>
+<br/>
+<br/>
+
+![dino](https://raw.githubusercontent.com/ProgrammerGaurav/programmergaurav/master/images/dino.gif)
+
+<br/>
 
 *"The best engineers don't just write code — they build leverage. AI is the highest leverage tool of our generation."*
 
