@@ -86,7 +86,7 @@ I am a B.Tech CSE student at **NIT Bhubaneswar** focused on **GenAI application 
 | 💼 **LinkedIn** | `sahitya-ghosh-9ba098292` | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahitya-ghosh-9ba098292) |
 | 🐦 **Twitter / X** | `@sahityagbcx` | [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/sahityagbcx) |
 | 📝 **Dev.to Blog** | `sahitya_ghosh_350` | [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/sahitya_ghosh_350) |
-| 🏆 **LeetCode** | `balasur` | [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/sahityaghosh/) |
+| 🏆 **LeetCode** | `sahityaghosh` | [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/sahityaghosh/) |
 | 🔶 **GeeksforGeeks** | `sahityagmkep` | [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/sahityagmkep) |
 | 👥 **Facebook** | `devinwithsahitya` | [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://fb.com/devinwithsahitya) |
 | 📸 **Instagram** | `sahityaghosh_350` | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/sahityaghosh_350) |
@@ -155,8 +155,12 @@ I am a B.Tech CSE student at **NIT Bhubaneswar** focused on **GenAI application 
 ## 🏆 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/balasur?theme=dark&font=source_code_pro&ext=activity" alt="LeetCode Stats" width="80%" />
+  <img src="https://leetcard.jacoblin.cool/sahityaghosh?theme=dark&font=source_code_pro&ext=activity" alt="LeetCode Stats" width="80%" />
 </div>
+
+<p align="center">
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=sahityaghosh&theme=dark" width="80%" />
+</p>
 
 ---
 
