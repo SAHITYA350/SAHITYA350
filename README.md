@@ -6,23 +6,47 @@
   <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="45%" alt="developer-animation" style="border-radius: 12px; margin: 5px; max-width: 320px;" />
 </p>
 
-# Hi 👋, I'm Sahitya Ghosh
-### **Full-Stack Engineer · GenAI Builder · Open Source Contributor**
-*Crafting high-leverage intelligent systems at the intersection of LLMs, scalable backends, and modern frontend architecture.*
+## 👨‍💻 Executive Summary
+
+I am **Sahitya Ghosh**, a B.Tech Computer Science student at **NIT Bhubaneswar** specializing in **AI & Full‑Stack Engineering**.  
+My focus is building **Agentic AI systems, RAG pipelines, and scalable SaaS platforms** that deliver measurable performance gains.  
+I’ve shipped production‑ready projects using **Python, Django, MERN, LangChain, and Docker**, and deployed them on **Render, Vercel, and AWS**.
+
+- **Core Strengths**: GenAI · Multi‑Agent Systems · RAG · Microservices · MERN/Django full‑stack  
+- **Recent Projects**: Vault‑AI (Knowledge Graph RAG), ResearchMind AI OS (6‑Agent pipeline), AI‑Powered Food Delivery Ecosystem  
+- **Internships**: Delivered 30–40% latency improvements and deployed live SaaS apps across three companies  
+- **Coding**: 200+ LeetCode problems solved · Strong DSA foundation  
+
+🎯 **Goal 2027–2028**: Contribute to open‑source AI developer tooling · Target Google Summer of Code (GSoC) · Build production‑grade agentic systems.
+
+---
+
+<div align="center">
+
+# Hi 👋, I'm Sahitya Ghosh  
+### **AI & Full‑Stack Engineer · GenAI Builder · Open Source Contributor**  
+*Crafting intelligent systems at the intersection of LLMs, scalable backends, and modern frontend architecture.*
 
 <br/>
 
-<!-- Real-time typing animation summarizing key competencies -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366f1&center=true&vCenter=true&width=600&lines=React+%7C+Node.js+%7C+Next.js;AI%2FML+Practitioner+%7C+Python+Learner;Open-Source+Contributor+%7C+Tech+Writer;Turning+ideas+into+scalable+solutions;DSA+problem+solver+on+LeetCode_Platform" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=+Python+%7C+Django+%7C+MERN;+Agentic+AI+%7C+RAG+Pipelines;+Open-Source+Contributor+%7C+Tech+Writer;+Turning+ideas+into+scalable+solutions;+DSA+Problem+Solver+on+LeetCode" alt="Typing SVG" />
 
 <br/>
 
-<!-- Custom dynamic profile counters -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahitya350&label=Profile+Views&color=8A2BE2&style=for-the-badge&labelColor=000000" alt="Profile Views" /> 
-  <img src="https://img.shields.io/github/stars/sahitya350?color=FFD700&label=Stars&logo=github&style=for-the-badge&labelColor=000000" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/followers/sahitya350?color=00FF7F&label=Followers&logo=github&style=for-the-badge&labelColor=000000" alt="GitHub Followers" />
+  <a href="https://www.linkedin.com/in/sahitya-ghosh-9ba098292/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
+  </a>
+
+  <img src="https://img.shields.io/github/stars/sahitya350?style=for-the-badge&logo=github&label=Stars&color=FFD700&labelColor=000000" alt="GitHub Stars" />
+
+  <img src="https://img.shields.io/github/followers/sahitya350?style=for-the-badge&logo=github&label=Followers&color=00FF7F&labelColor=000000" alt="GitHub Followers" />
 </p>
+
+</div>
+
+
+<br/>
 
 </div>
 
@@ -73,7 +97,7 @@ fetchGitHubStats('SAHITYA350');
 I am a B.Tech CSE student at **NIT Bhubaneswar** focused on **GenAI application development** and **full-stack engineering**. I ship production-grade AI tools — from intelligent interview prep platforms to generative exam systems — using modern LLM APIs, MERN stack, and scalable cloud infrastructure.
 
 *   **Actively Exploring**: RAG pipelines · LLM fine-tuning · Agentic workflows · Real-time AI systems
-*   **Goal 2025**: Google Summer of Code (GSoC) · Open source AI developer tooling.
+*   **Goal 2028**: Google Summer of Code (GSoC) · Open source AI developer tooling.
 
 ---
 
@@ -83,6 +107,7 @@ I am a B.Tech CSE student at **NIT Bhubaneswar** focused on **GenAI application 
 
 | Platform | Address / Handle | Link Button |
 | :--- | :--- | :--- |
+| 🌐 **Live Portfolio** | `atsahityaghosh.onrender.com` | [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=render&logoColor=white)](https://atsahityaghosh.onrender.com) |
 | 💼 **LinkedIn** | `sahitya-ghosh-9ba098292` | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahitya-ghosh-9ba098292) |
 | 🐦 **Twitter / X** | `@sahityagbcx` | [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/sahityagbcx) |
 | 📝 **Dev.to Blog** | `sahitya_ghosh_350` | [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/sahitya_ghosh_350) |
