@@ -10,7 +10,7 @@
 
 I am **Sahitya Ghosh**, a B.Tech Computer Science student at **NIT Bhubaneswar** specializing in **AI & Full‑Stack Engineering**.  
 My focus is building **Agentic AI systems, RAG pipelines, and scalable SaaS platforms** that deliver measurable performance gains.  
-I’ve shipped production‑ready projects using **Python, Django, MERN, LangChain, and Docker**, and deployed them on **Render, Vercel, and AWS**.
+I’ve shipped production‑ready projects using **Python, Django, MERN, PERN, LangChain, and Docker**, and deployed them on **Render, Vercel, and AWS**.
 
 - **Core Strengths**: GenAI · Multi‑Agent Systems · RAG · Microservices · MERN/Django full‑stack  
 - **Recent Projects**: Vault‑AI (Knowledge Graph RAG), ResearchMind AI OS (6‑Agent pipeline), AI‑Powered Food Delivery Ecosystem  
