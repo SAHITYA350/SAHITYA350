@@ -29,7 +29,7 @@ I’ve shipped production‑ready projects using **Python, Django, MERN, PERN, L
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=+Python+%7C+Django+%7C+MERN;+Agentic+AI+%7C+RAG+Pipelines;+Open-Source+Contributor+%7C+Tech+Writer;+Turning+ideas+into+scalable+solutions;+DSA+Problem+Solver+on+LeetCode" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=+Python+%7C+Django+%7C;+Agentic+AI+%7C+RAG+Pipelines;+Open-Source+Contributor+%7C+Tech+Writer;+Turning+ideas+into+scalable+solutions;+NodeJS+MERN+PERN+Postgresql+pg+MongoDB+Express+Postman;+DSA+Problem+Solver+on+LeetCode" alt="Typing SVG" />
 
 <br/>
 
